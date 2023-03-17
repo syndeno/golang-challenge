@@ -1,4 +1,4 @@
-# golang-challenge
+# Syndeno golang-challenge
 Golang CLI Challenge
 
 El objetivo de este desafío es implementar un caso de una herramienta de CLI en Golang empleando la librería de Cobra. En este proyecto inicial, se encuentra un proyecto de Cobra inicializado.
